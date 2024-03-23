@@ -11,54 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, EPFL, 2021-2024
+  * Thesis: "VLM Dataset Pruning"
+  * Advisor: Prof. Martin Jaggi
+  * Major GPA: 5.5/6.0
+* B.S. in University of Electronic Science and Technology of China, 2017-2021
+
+Research experience
+======
+
+* Oct.2023 - Feb.2024. Research Assistant, NLP Lab – EPFL.
+  * Main goal: interpret the multi-modal models including ViLT, CLIP, and BLIP.
+  * Tried different methods to understand how the image interacts with the text, such as the Second-Gradient Cross-Attention map,...
+
+* Oct. 2023 – Feb. 2024. Research Assistant, Health NLP Lab – University of Tübingen.
+  * Created a dataset benchmark, which contains corrupted sentences, correct sentences, contexts, and explanations, to measure LLM’s reliability.
+  * Fine-tuned several widely used models to test their performance on explanation generation, including BERT, Flan-T5, BART, BRIO, GPT-2, and GPT-J.
+
+* Jul. 2022 – Dec. 2022. Research Assistant, Machine Learning and Optimization Lab – EPFL.
+  * Proposed a two-stage model SimSum for document-to-document simplification tasks, combining text simplification and summarization tasks innovatively.
+  * Analysed and pre-processed two document-level simplification datasets, and made the resulting datasets available for reproducibility.
+  * Paper was accepted to ACL 2023 main conference.
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb.2023 - Aug.2023. NLP Research Intern, AXA Group Operation Switzerland.
+  * Main Task: Automatic insurance claims generation for Coverage Check problem.
+  * Explored prompts for ChatGPT to generate different insurance claims for model’s performance testing.
+  * Deployed two Fake-Text-Detection models (MPU and DetectGPT) on Synthetic Text Detection subtasks.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
