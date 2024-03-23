@@ -25,7 +25,7 @@ author:
   name             : "Xinyu Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Learning Machine Learning"
-  location         : "Lausaane, Switzerland"
+  location         : "Lausanne, Switzerland"
   employer         : "EPFL"
   uri              : # URL
   email            : "xinyu.zhou@epfl.ch" 
@@ -231,15 +231,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+
   # _publications
   - scope:
       path: ""
@@ -258,14 +250,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS
