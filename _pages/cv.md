@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Data Science, EPFL, 2021-2024
+* M.S. in Data Science, École Polytechnique Fédérale de Lausanne (EPFL), 2021-2024
   * Thesis: "VLM Dataset Pruning"
   * Advisor: [Prof. Martin Jaggi](https://people.epfl.ch/martin.jaggi)
   * Selective Courses:
