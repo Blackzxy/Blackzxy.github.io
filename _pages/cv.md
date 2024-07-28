@@ -65,6 +65,6 @@ Academic Services
 
 Technical Skills
 ======
-* Programming Languages: Python, C++, MATLAB
-* Machine Learning: PyTorch, HuggingFace
-* Language Proficiency: GRE: 328, IELTS: 7.5
+* **Programming Languages**: Python, C++, MATLAB
+* **Machine Learning**: PyTorch, HuggingFace
+* **Language Proficiency**: GRE: 328, IELTS: 7.5
