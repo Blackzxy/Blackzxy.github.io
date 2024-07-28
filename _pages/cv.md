@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Data Science, École Polytechnique Fédérale de Lausanne (EPFL), 2021-2024
-  * Thesis: "VLM Dataset Pruning"
+  * Thesis (6.0/6.0): "[HyperINF: Scaling-up Accurate Approximation of Influence Function by the Hyperpower Method](https://openreview.net/forum?id=8dEn6YEDv6&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2024%2FWorkshop%2FDMLR%2FAuthors%23your-submissions))"
   * Advisor: [Prof. Martin Jaggi](https://people.epfl.ch/martin.jaggi)
   * Selective Courses:
     * Deep Learning (5.75/6.0)
@@ -26,30 +26,45 @@ Education
   * Thesis: "Non-Parametric Bayesian Optimization"
   * Major GPA: 4.0/4.0
 
-Research experience
+Research experiences
 ======
+* *Feb. 2024 - Jun. 2024*. **Master Thesis** (Machine Learning and Optimization Lab – EPFL)
+  * We propose **HyperINF** as an accurate approximation method based on a *hyperpower method*, i.e. Schulz's iterative algorithm, which enjoys a rigorous convergence guarantee.
+  * **HyperINF** showcases superior accuracy and stability in the Hessian inverse matrix estimation compared to existing baselines, especially on high-dimensional matrices and sample-sizes.
+  * We further validate the efficacy of **HyperINF** through extensive real-world data attribution problems, including mislabeled data detection, data selection for LLM finetuning, and multimodal instruct-tuning data selection for VLM pretraining.
+
+* *Jun. 2023 - Jun. 20244*. **Research Assistant** (HKUST)
+  * We propose **LoGAH**, with an improved low-rank decoder, that is more scalable and can predict parameters of large networks without copying while having fewer trainable parameters and a lower training cost.
+  * We create a new dataset of small ViT and GPT-2 architectures, allowing GHNs to be trained on Transformers for both vision and language domains. **LoGAH** shows excellent generalized capability on larger models.
+  * We outperform GHN-3 as an initialization approach in multiple vision and language tasks by predicting more diverse and performant parameters.
 
 * *Oct.2023 - Feb.2024*. **Research Assistant** (NLP Lab – EPFL)
   * Main goal: interpret the multi-modal models including ViLT, CLIP, and BLIP.
-  * Tried different methods to understand how the image interacts with the text, such as the Second-Gradient Cross-Attention map,...
+  * We try different methods to understand how the image interacts with the text, such as the Second-Gradient, Cross-Attention map,...
 
-* *Oct. 2023 – Feb*. 2024. **Research Assistant** (Health NLP Lab – University of Tübingen)
-  * Created a dataset benchmark, which contains corrupted sentences, correct sentences, contexts, and explanations, to measure LLM’s reliability.
-  * Fine-tuned several widely used models to test their performance on explanation generation, including BERT, Flan-T5, BART, BRIO, GPT-2, and GPT-J.
 
 * *Jul. 2022 – Dec. 2022*. **Research Assistant** (Machine Learning and Optimization Lab – EPFL)
-  * Proposed a two-stage model \\(SimSum\\) for document-to-document simplification tasks, combining text simplification and summarization tasks innovatively.
-  * Analysed and pre-processed two document-level simplification datasets, and made the resulting datasets available for reproducibility.
-  * Paper was accepted to ACL 2023 main conference.
+  * We propose a two-stage model **SimSum** for document-to-document simplification tasks, combining text simplification and summarization tasks innovatively.
+  * We analyse and pre-process two document-level simplification datasets, and make the resulting datasets available for reproducibility.
+  * Paper was accepted to **ACL 2023** main conference.
 
 
-Work experience
+Industry experiences
 ======
 
 * *Feb.2023 - Aug.2023*. **NLP Research Intern** (AXA Group Operation Switzerland)
-  * Main Task: Automatic insurance claims generation for Coverage Check problem.
-  * Explored prompts for ChatGPT to generate different insurance claims for model’s performance testing.
-  * Deployed two Fake-Text-Detection models (MPU and DetectGPT) on Synthetic Text Detection subtasks.
+  * Main Task: Assess of large language models and its reasoning capabilities.
+  * I Explore prompts for ChatGPT to generate different insurance claims for model's performance testing.
+  * I Deploy two Fake-Text-Detection models (MPU and DetectGPT) on Synthetic Text Detection subtask.
+  
+  
+Academic Services
+======
 
-  
-  
+* Reviewer for Data-centric Machine Learning Research (DMLR) Workshop, ICML 2024
+
+Technical Skills
+======
+* Programming Languages: Python, C++, MATLAB
+* Machine Learning: PyTorch, HuggingFace
+* Language Proficiency: GRE: 328, IELTS: 7.5
