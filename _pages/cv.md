@@ -33,7 +33,7 @@ Research experiences
   * We demonstrate the superior accuracy and stability of *HyperINF* on matrix inversion through a synthetic convergence test.
   * We further validate the efficacy of **HyperINF** through extensive real-world data attribution problems, including mislabeled data detection, data selection for LLM finetuning, and multimodal instruct-tuning data selection for VLM pretraining.
 
-* *Jun. 2023 - Jun. 20244*. **Remote Research Assistant** (HKUST \& Mila)
+* *Jun. 2023 - Jun. 20244*. **Remote Research Assistant** (HKUST & Mila)
   * We propose **LoGAH**, with an improved low-rank decoder, that is more scalable and can predict parameters of large networks without copying while having fewer trainable parameters and a lower training cost.
   * We create a new dataset of small ViT and GPT-2 architectures, allowing GHNs to be trained on Transformers for both vision and language domains. **LoGAH** shows excellent generalized capability on larger models.
   * We outperform GHN-3 as an initialization approach in multiple vision and language tasks by predicting more diverse and performant parameters.
