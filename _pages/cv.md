@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Data Science, École Polytechnique Fédérale de Lausanne (EPFL), 2021-2024
-  * Thesis (6.0/6.0): "[HyperINF: Scaling-up Accurate Approximation of Influence Function by the Hyperpower Method](https://openreview.net/forum?id=8dEn6YEDv6&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2024%2FWorkshop%2FDMLR%2FAuthors%23your-submissions))"
+  * Thesis (6.0/6.0): "[HyperINF: Scaling-up Accurate Approximation of Influence Function by the Hyperpower Method](https://icml.cc/virtual/2024/36436)"
   * Advisor: [Prof. Martin Jaggi](https://people.epfl.ch/martin.jaggi)
   * Selective Courses:
     * Deep Learning (5.75/6.0)
@@ -29,11 +29,11 @@ Education
 Research experiences
 ======
 * *Feb. 2024 - Jun. 2024*. **Master Thesis** (Machine Learning and Optimization Lab – EPFL)
-  * We propose **HyperINF** as an accurate approximation method based on a *hyperpower method*, i.e. Schulz's iterative algorithm, which enjoys a rigorous convergence guarantee.
-  * **HyperINF** showcases superior accuracy and stability in the Hessian inverse matrix estimation compared to existing baselines, especially on high-dimensional matrices and sample-sizes.
+  * We propose **HyperINF** as an accurate approximation method based on a *hyperpower method*, i.e. Schulz's iterative algorithm (which enjoys a rigorous convergence guarantee) and Generalized Fisher Information Matrix (GFIM). 
+  * We demonstrate the superior accuracy and stability of *HyperINF* on matrix inversion through a synthetic convergence test.
   * We further validate the efficacy of **HyperINF** through extensive real-world data attribution problems, including mislabeled data detection, data selection for LLM finetuning, and multimodal instruct-tuning data selection for VLM pretraining.
 
-* *Jun. 2023 - Jun. 20244*. **Research Assistant** (HKUST)
+* *Jun. 2023 - Jun. 20244*. **Remote Research Assistant** (HKUST \& Mila)
   * We propose **LoGAH**, with an improved low-rank decoder, that is more scalable and can predict parameters of large networks without copying while having fewer trainable parameters and a lower training cost.
   * We create a new dataset of small ViT and GPT-2 architectures, allowing GHNs to be trained on Transformers for both vision and language domains. **LoGAH** shows excellent generalized capability on larger models.
   * We outperform GHN-3 as an initialization approach in multiple vision and language tasks by predicting more diverse and performant parameters.
