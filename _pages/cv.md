@@ -60,7 +60,8 @@ Industry experiences
   
 Academic Services
 ======
-
+* Reviewer for EMNLP 2025
+* Reviewer for Efficient Systems for Foundation Models (ES-FoMo) Workshop, ICML 2025
 * Reviewer for Data-centric Machine Learning Research (DMLR) Workshop, ICML 2024
 
 Technical Skills
