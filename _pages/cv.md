@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+For my entire CV, please refer to my [CV PDF](https://drive.google.com/file/d/1N3jSyfm4WeycPfcNO1aoVxf4mwI4PS2U/view?usp=sharing).
+
 Education
 ======
 * M.S. in Data Science, École Polytechnique Fédérale de Lausanne (EPFL), 2021-2024
