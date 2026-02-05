@@ -13,6 +13,7 @@ redirect_from:
 
 # Community Services
 I am a reviewer for the following conferences:
+- ICML 2026
 - NeurIPS 2025 / EMNLP 2025 / AI for Math Workshop, ICML 2025 / Efficient Systems for Foundation Models (ES-FoMo) Workshop, ICML 2025
 - Data-centric Machine Learning Research (DMLR) Workshop, ICML 2024
 
